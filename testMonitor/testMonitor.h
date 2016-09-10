@@ -1,0 +1,11 @@
+#pragma once
+#include <SDKDDKVer.h>
+#include <Windows.h>
+#include <stdlib.h>
+#include <stdio.h>
+#include <tchar.h>
+#include <Shellapi.h>
+#include <iostream>
+#include <TlHelp32.h>
+#include <string>
+#include <fstream>
